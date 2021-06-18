@@ -1,5 +1,5 @@
 <!-- MAIN (Center website) -->
-<div class="main">
+<div>
 
 <h1>Vibhuti Sharma</h1>
 
